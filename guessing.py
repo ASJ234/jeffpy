@@ -5,9 +5,9 @@ number = random.randint(1, 10)
 while True:
     guess = int(input("Guess a number between 1 and 10: "))
     if guess == number:
-        print("Congratulations.....")
+        print("Congratulations.")
         break
     else:
-        print("CWrong number, try again.")
+        print("Wrong number, try again.")
         
   

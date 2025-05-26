@@ -1,4 +1,4 @@
-#INVENTORY MANAGEMNENT SYSTEM
+#INVENTORY MANAGEMNENT SYSTEM TO DISPLAY, UPDATE, ADD AND REMOVE ITEMS
 
 inventory = [{"item": "apple", "quantity": 10, "price": 1000},
             {"item": "banana", "quantity": 20, "price": 500},
